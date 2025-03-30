@@ -1,6 +1,4 @@
-# RAG_TF-IDF_BM25
-
-# Search Engine
+# RAG_TF-IDF_BM25 Search Engine
 
 ## Overview
 Following SE is a text-based mini search engine built from scratch. This project implements various information retrieval techniques including boolean retrieval, vector space model with TF-IDF, and BM25 ranking. Additionally, it explores Retrieval-Augmented Generation (RAG) capabilities with Large Language Models.
